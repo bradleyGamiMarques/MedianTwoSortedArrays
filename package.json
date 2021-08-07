@@ -1,0 +1,25 @@
+{
+  "name": "mediantwoarrays",
+  "version": "1.0.0",
+  "description": "Brute force solution to LeetCode problem Median of Two Sorted Arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyGamiMarques/MedianTwoSortedArrays.git"
+  },
+  "keywords": [
+    "Algorithms",
+    "LeetCode",
+    "Solution"
+  ],
+  "author": "Bradley Marques",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
